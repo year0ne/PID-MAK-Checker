@@ -3,7 +3,7 @@
 <img src="MAK_Screen_1.png">
 <img src="MAK_Screen_2.png">
 
-Version 0.1 features:
+Version 1.5 features:
 
 - Can autodetect Products by the inserted Productkey
 - Check Single and Multi-Productcodes
