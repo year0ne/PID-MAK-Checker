@@ -1,7 +1,7 @@
 # PID-MAK-Checker 2021
 
-<img src="MAK_Screen_1.png">
-<img src="MAK_Screen_2.png">
+<img src="screenshots/MAK_Screen_1.png">
+<img src="screenshots/MAK_Screen_2.png">
 
 Version 1.5 features:
 
