@@ -1,4 +1,6 @@
-# PID-MAK-Checker 2021 - by Year0ne
+# Microsoft MAK-Checker by Year0ne
+
+With this Tool you can easily check Microsoft Volume/MAK Productcodes.
 
 <img src="screenshots/MAK_Screen_1.png">
 <img src="screenshots/MAK_Screen_2.png">
