@@ -30,43 +30,43 @@ Features for upcoming versions:
 
 Currently Supported Products for Check:
 
-Windows 10 Home
-Windows 10 Professional
-Windows 10 Professional N
-Windows 10 Workstation
-Windows 10 Education
-Windows 10 Enterprise
-Windows 10 EnterpriseS
-Windows 10 EnterpriseSN
+Windows 10 Home<br>
+Windows 10 Professional<br>
+Windows 10 Professional N<br>
+Windows 10 Workstation<br>
+Windows 10 Education<br>
+Windows 10 Enterprise<br>
+Windows 10 EnterpriseS<br>
+Windows 10 EnterpriseSN<br><br>
 
-Windows 8 Professional
-Windows 8 Enterprise
+Windows 8 Professional<br>
+Windows 8 Enterprise<br><br>
 
-Windows 8.1 Professional
-Windows 8.1 Enterprise
+Windows 8.1 Professional<br>
+Windows 8.1 Enterprise<br><br>
 
-Windows 7 - all Editions
+Windows 7 - all Editions<br><br>
 
-Microsoft Office 2010 Standard
-Microsoft Office 2010 Professional
-Microsoft Office 2010 Professional Plus
+Microsoft Office 2010 Standard<br>
+Microsoft Office 2010 Professional<br>
+Microsoft Office 2010 Professional Plus<br><br>
 
-Microsoft Office 2013 Standard
-Microsoft Office 2013 Professional
-Microsoft Office 2013 Professional Plus
+Microsoft Office 2013 Standard<br>
+Microsoft Office 2013 Professional<br>
+Microsoft Office 2013 Professional Plus<br><br>
 
-Microsoft Office 2016 Standard
-Microsoft Office 2016 Professional
-Microsoft Office 2016 Professional Plus
+Microsoft Office 2016 Standard<br>
+Microsoft Office 2016 Professional<br>
+Microsoft Office 2016 Professional Plus<br><br>
 
-Microsoft Office 2019 Standard
-Microsoft Office 2019 Professional
-Microsoft Office 2019 Professional Plus
+Microsoft Office 2019 Standard<br>
+Microsoft Office 2019 Professional<br>
+Microsoft Office 2019 Professional Plus<br><br>
 
-[BETA]
-Microsoft Visual Studio 2010
-Microsoft Visual Studio 2012
-Microsoft Visual Studio 2013
-Microsoft Visual Studio 2015
-Microsoft Visual Studio 2017
-Microsoft Visual Studio 2019
+[BETA]<br>
+Microsoft Visual Studio 2010<br>
+Microsoft Visual Studio 2012<br>
+Microsoft Visual Studio 2013<br>
+Microsoft Visual Studio 2015<br>
+Microsoft Visual Studio 2017<br>
+Microsoft Visual Studio 2019<br>
