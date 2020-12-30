@@ -1,4 +1,4 @@
-# MAK-Checker by Year0ne
+# PID/MAK-Checker by Year0ne
 
 With this Tool you can easily check Microsoft Volume/MAK Productcodes.
 
